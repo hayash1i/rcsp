@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch EquiprentApplication",
+            "request": "launch",
+            "mainClass": "ru.university.equiprent.EquiprentApplication",
+            "projectName": "equiprent"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Swagger UI",
+            "url": "http://localhost:8081/swagger-ui.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

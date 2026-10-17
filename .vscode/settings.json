@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "equiprent", "springframework", "springdoc", "webmvc",
+    "projectlombok", "ooxml", "XSSF"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic"
+}
